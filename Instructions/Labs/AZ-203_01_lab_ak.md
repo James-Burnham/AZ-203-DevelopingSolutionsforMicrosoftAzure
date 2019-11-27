@@ -1,3 +1,5 @@
+James is super awesome!
+
 ---
 lab:
     title: 'Lab: Deploying compute workloads by using images and containers'
